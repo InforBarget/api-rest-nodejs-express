@@ -803,12 +803,12 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 **Anthony - Infor'Barget**
 
-- 🌐 Site web : [inforbarget.fr](https://inforbarget.fr)
-- 📺 YouTube : [Votre chaîne développeur]
-- 💼 LinkedIn : [Votre profil]
-- 📧 Email : contact@inforbarget.fr
+- 🌐 Site web : [inforbarget.com](https://inforbarget.com)
+- 📺 YouTube : [[Votre chaîne développeur](https://www.youtube.com/@inforbarget)]
+- 💼 LinkedIn : [[Votre profil](https://www.linkedin.com/in/anthonybarget/)]
+- 📧 Email : admin@inforbarget.com
 
-**Organisation de formation certifiée Qualiopi**
+**Organisation de formation**
 
 ---
 
@@ -835,7 +835,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 ## 🎥 Tutoriel vidéo
 
 Ce projet est accompagné d'un tutoriel vidéo complet disponible sur YouTube :
-[Lien vers la vidéo]
+[[Lien vers la vidéo](https://youtu.be/UDqmBtvxQDw)]
 
 Dans cette vidéo de 45 minutes, vous apprendrez :
 - Configuration complète du projet
@@ -862,6 +862,6 @@ Des questions ? Ouvrez une [issue](https://github.com/votre-username/api-rest-no
 
 ---
 
-**Fait avec ❤️ par Anthony - Formation professionnelle certifiée Qualiopi**
+**Fait avec ❤️ par Anthony - Formation professionnelle**
 
 *Dernière mise à jour : Janvier 2025*
